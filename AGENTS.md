@@ -1,3 +1,8 @@
+---
+description: 
+alwaysApply: true
+---
+
 # AGENTS.md
 ## New Blog Post Workflow
 - If user says “new blog post” without topic/title: ask for topic/title first.

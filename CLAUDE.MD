@@ -1,3 +1,8 @@
+---
+description: 
+alwaysApply: true
+---
+
 # Instructions for Claude
 
 This document contains important instructions and notes for Claude when working on this project.
